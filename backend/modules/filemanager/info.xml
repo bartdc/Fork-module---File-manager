@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>filemanager</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>2.4.0</minimum_version>
+	</requirements>
+	<description>
+		<![CDATA[
+			File manager module displays CKFinder in a module. Otherwise you got to go to into an editor to approach CKFinder.
+		]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Bart De Clercq]]></name>
+			<url><![CDATA[http://lexxweb.be]]></url>
+		</author>
+	</authors>
+</module>

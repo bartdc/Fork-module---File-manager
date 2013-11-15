@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+  <backend>
+    <core>
+      <item type="label" name="Filemanager">
+        <translation language="nl"><![CDATA[bestandsbeheer]]></translation>
+        <translation language="en"><![CDATA[file manager]]></translation>
+        <translation language="fr"><![CDATA[gestionnaire de fichiers]]></translation>
+      </item>
+    </core>
+  </backend>
+</locale>
